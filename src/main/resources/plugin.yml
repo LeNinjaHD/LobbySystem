@@ -1,0 +1,8 @@
+name: LobbySystem
+version: '${project.version}'
+main: com.leprofi.lobbysystem.LobbySystem
+api-version: 1.18
+depend: [ MBedWars ]
+softdepend: [ PlaceholderAPI ]
+authors: [ LeNinjaHD ]
+description: A LobbySystem specially designed for MBedWars
